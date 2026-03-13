@@ -10,8 +10,6 @@
 
 ---
 
----
-
 # 📊 Statystyki Github:
 ![](https://github-readme-stats.vercel.app/api?username=Mord0reK&theme=dark&hide_border=false&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mord0reK&theme=dark&hide_border=false)<br/>
@@ -24,13 +22,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-### 🌐 Frameworki & Strony:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
