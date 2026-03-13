@@ -7,6 +7,8 @@
 |------|------|
 | [glance-polski](https://github.com/Mord0reK/glance-polski) | Przetłumaczona wersja panelu Glance na język polski z dodatkowymi widgetami. |
 | [Radyjko](https://github.com/Mord0reK/Radyjko) | Prosta strona internetowa do słuchania stacji radiowych online. |
+| [Directory-listing](https://github.com/Mord0reK/directory-listing) | Listing katalogów z obsługą PHP i Baz danych inspirowany [h5ai](https://github.com/lrsjng/h5ai)  |
+| [Termius RPC](https://github.com/Mord0reK/termius-rpc) | Discord Rich Presence dla klienta SSH Termius |
 
 ---
 
