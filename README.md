@@ -47,7 +47,3 @@
 ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Mord0reK&icon=0&color=0)](https://visitcount.itsvg.in)
