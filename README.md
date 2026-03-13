@@ -1,5 +1,4 @@
-# 💫 O mnie:
-Coś tam sobie szponce<br>
+##### Coś tam sobie szponce<br>
 
 ---
 
