@@ -3,6 +3,14 @@ Coś tam sobie szponce<br>
 
 ---
 
+# 📌 Popularne repozytoria:
+| Repo | Opis |
+|------|------|
+| [glance-polski](https://github.com/Mord0reK/glance-polski) | Przetłumaczona wersja panelu Glance na język polski z dodatkowymi widgetami. |
+| [Radyjko](https://github.com/Mord0reK/Radyjko) | Prosta strona internetowa do słuchania stacji radiowych online. |
+
+---
+
 # 💻 Języki programowania:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
